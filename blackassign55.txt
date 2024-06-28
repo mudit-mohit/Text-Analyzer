@@ -1,0 +1,52 @@
+URL: https://insights.blackcoffer.com/telemedicine-what-patients-like-and-dislike-about-it/
+Title: telemedicine - What patients like and dislike about it | blackcoffer insights
+
+Home
+What We Think
+What patients like and dislike about telemedicine?
+In today’s world, telemedicine technology is one of those technologies which has brought about a change. Compared to the early days there have been remarkable differences in the methods of consultation with a doctor. In the years that have passed by, consultation for a disease with a doctor was quite hectic. It involved waiting, traveling, etc. But with the advent of telemedicine opportunities, this has completely changed.
+It is a rural area that has been completely blessed with the invention of telemedicine. Today a considerable amount of people are able to consult doctors remotely. Not just doctors, but specialists
+in various fields of medicine.
+This has been of great importance as far as rural people are concerned. There are a lot of telemedicine tools that have been found. There are a lot of areas like
+ophthalmology, oncology, dermatology,
+etc where the facility of telemedicine has been practiced.
+Most of the patients are truly benefitting from telemedicine. Patients are pretty satisfied with the consultation they are getting. They don’t have to travel now. They can consult doctors and other specialists from remote areas. The cost of consultation has become pretty much affordable. Moreover, they get exposed to highly efficient and qualified experts in the field of medicine.
+On the other hand, there can be patients who do not fully get satisfied
+through a virtual consultation
+. Rather they might feel that they need to have a direct talk with the doctor, which can boost up their confidence and also it helps to maintain a better relationship with the doctor and patient. The patients feel trust when they talk to doctors face to face. Moreover, doctors also might be able to console their patients when they have direct interaction with their patients. There could also be patients who doubt if these virtual methodologies are really trusted worthy or not. It is so because, while the patients have direct contact with their patients, the qualifications are visible to the patients. So there shall be no question of distrust.
+There are major challenges like better connectivity of the internet, without which the patients will not be able to have continuous interaction with the doctors. Technical glitches may hinder the consultation too. Moreover, emergency situations cannot be addressed beyond a limit through telemedicine.
+Blackcoffer Insights 23: Miriam sam, Scms school of technology and management.
+RELATED ARTICLES
+MORE FROM AUTHOR
+AI Bot Audio to audio
+Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development
+Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application
+MOST POPULAR INSIGHTS
+Big Data Analytics through IoT in Oil and Gas Industry
+September 10, 2018
+How are genetic sequencing maps affected by deep learning and AI?
+August 26, 2021
+Are Initial Big Data Efforts Focused on Gaining Insights from Existing...
+August 13, 2017
+Deploy Nodejs app on a cloud VM such as GCP, AWS,...
+August 8, 2023
+Load more
+RECOMMENDED INSIGHTS
+Integration of video-conferencing data to the existing web app
+AI in healthcare to Improve Patient Outcomes
+How artificial intelligence can boost your productivity level?
+How big data and analytics is shaping tomorrow for marketing leaders?
+
+Positive Score: 29
+Negative Score: 5
+Polarity Score: 0.19577898550724634
+Subjectivity Score: 0.47641304347826086
+Avg Sentence Length: 16.65625
+Percentage Complex Words: 18.94934333958724
+Fog Index: 14.242237335834899
+Avg Words Per Sentence: 16.65625
+Complex Word Count: 101
+Word Count: 533
+Syllables Per Word: 1.703564727954972
+Personal Pronouns: 1
+Avg Word Length: 5.183864915572233
